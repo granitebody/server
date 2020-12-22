@@ -1,0 +1,1 @@
+The server's settings for [granitebody.com](https://www.granitebody.com) (WordPress).
