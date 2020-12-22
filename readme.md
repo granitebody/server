@@ -9,6 +9,7 @@ cat /etc/redhat-release
 ```
 service ea-php74-php-fpm restart
 service httpd restart
+service mysql restart
 ```
 
 ## Apache's configuration
