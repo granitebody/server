@@ -1,5 +1,10 @@
 The server's settings for [granitebody.com](https://www.granitebody.com) (WordPress).
 
+```
+cat /etc/redhat-release
+```
+> CentOS Linux release 7.9.2009 (Core)
+
 ## How to restart services
 ```
 service httpd restart
