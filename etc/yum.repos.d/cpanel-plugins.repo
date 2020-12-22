@@ -1,0 +1,7 @@
+[cpanel-plugins]
+name=cPanel Plugins project
+mirrorlist=http://httpupdate.cpanel.net/cpanel-plugins-c$cp_centos_major_version-$basearch-mirrorlist
+gpgcheck=1
+gpgkey=https://securedownloads.cpanel.net/cPanelPublicRPMKey.asc
+enabled=1
+cost=50
