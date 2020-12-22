@@ -7,8 +7,8 @@ cat /etc/redhat-release
 
 ## How to restart services
 ```
-service httpd restart
 service ea-php74-php-fpm restart
+service httpd restart
 ```
 
 ## Apache's configuration
